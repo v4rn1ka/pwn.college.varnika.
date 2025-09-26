@@ -1,4 +1,4 @@
-# cat: not the pet, but the command!
+# Cat: not the pet, but the command!
 This challenge asks me to read my flag file using cat command.
 
 ## My Solve
