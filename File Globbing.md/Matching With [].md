@@ -1,4 +1,4 @@
-# Matching With *
+# Matching With []
 This challenge asks me to use [] and run the command /challenge/run with arguments file_b, file_a, file_s, and file_h which are in /challenge/files.
 
 ## My solve
