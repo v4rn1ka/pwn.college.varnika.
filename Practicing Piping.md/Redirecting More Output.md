@@ -1,4 +1,4 @@
-# Redirecting Output
+# Redirecting More Output
 This challenge asks me to uredirect the output of /challenge/run to myflag. 
 
 ## My solve
