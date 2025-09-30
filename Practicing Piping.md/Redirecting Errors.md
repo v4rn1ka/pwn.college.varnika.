@@ -1,5 +1,5 @@
 # Redirecting Errors
-This challenge asks me to redirect the out of /challenge/run to myflag and its errors to instructions. 
+This challenge asks me to redirect the output of /challenge/run to myflag and its errors to instructions. 
 
 ## My solve
 **Flag:** `pwn.college{glSOryI_aBknkummmhm2BF54ao7.QX0YTN0wiN2AzNzEzW}`
