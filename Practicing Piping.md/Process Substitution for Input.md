@@ -1,5 +1,5 @@
 # Process Substitution For Input
-This challenge asks me to retrieve my flag from theoutputs of /challenge/print_decoys and /challenge/print_decoys_and_flag
+This challenge asks me to retrieve my flag from the outputs of /challenge/print_decoys and /challenge/print_decoys_and_flag
 
 ## My solve
 **Flag:** ` pwn.college{IfYzNHjy6JZm1uwq8288SxjauL0.0lNwMDOxwiN2AzNzEzW}`
