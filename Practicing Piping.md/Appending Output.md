@@ -11,7 +11,7 @@ cat /home/hacker/the-flag
 ```
 
 ## What I learned
->> is used when we do not want to truncate the file instead add the output to the file.
+'>>' is used when we do not want to truncate the file instead add the output to the file.
 
 ## References 
 Resources in pwn.college
