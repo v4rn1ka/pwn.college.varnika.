@@ -1,0 +1,16 @@
+# Redirecting Errors
+This challenge asks me to redirect the stdout of /challenge/hack to /challenge/planet and stderr to /challenge/the.
+
+## My solve
+**Flag:** `pwn.college{sSKHQyuPcGQsD3hvEb5H05b1Xhw.QXxQDM2wiN2AzNzEzW}`
+
+Temperory named pipes are created for /challenge/planet and /challenge/the using >(cmd). Since, /challenge/planet takes in stdout, > is used and 2> for /challenge/the. 
+```
+/challenge/hack > >(/challenge/planet) 2> >(/challenge/the)
+```
+
+## What I learned
+To redirect stderr and stdout withot mixing them.
+
+## References 
+Pretext in pwn.college
