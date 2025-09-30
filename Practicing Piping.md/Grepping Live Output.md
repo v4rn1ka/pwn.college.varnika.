@@ -1,5 +1,5 @@
 # Grepping Live Output
-This challenge asks me to grep for my flag in the outputs of /challenge/run.
+This challenge asks me to grep my flag in the outputs of /challenge/run.
 
 ## My solve
 **Flag:** `pwn.college{UHGPoRvrnF9nYIpqG6anVPQ4AvP.QX5EDO0wiN2AzNzEzW}`
