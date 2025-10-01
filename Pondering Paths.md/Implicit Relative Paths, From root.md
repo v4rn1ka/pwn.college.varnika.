@@ -1,4 +1,4 @@
-#  Implict Relative Paths, from /
+#  Implicit Relative Paths, from /
 This challenge asks me to run /challenge/run using a relative path while having a current working directory of /.
 
 ## My Solve
